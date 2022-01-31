@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // первый раздел
+    <string-array name="Pizza">
+        <item>@string/gavaiskaya_pizza</item>
+        <item>@string/chiken_pizza</item>
+        <item>@string/margarita_pizza</item>
+        <item>@string/meat_pizza</item>
+    </string-array>
+    <string-array name="Pizza_Content">
+        <item>@string/gavaiskaya_pizza_cont</item>
+        <item>@string/chiken_pizza_cont</item>
+        <item>@string/margarita_pizza_cont</item>
+        <item>@string/meat_pizza_cont</item>
+    </string-array>
+    <integer-array name="Pizza_price">
+        <item>@integer/gavaiskaya_pizza_price</item>
+        <item>@integer/chiken_pizza_price</item>
+        <item>@integer/margarita_pizza_price</item>
+        <item>@integer/meat_pizza_price</item>
+    </integer-array>
+    <array name="Pizza_Foto">
+        <item>@drawable/gavaiskay_pizza</item>
+        <item>@drawable/chiken_pizza</item>
+        <item>@drawable/margarita_pizza</item>
+        <item>@drawable/meat_pizza</item>
+    </array>
+
+    // второй раздел
+    <string-array name="Burgers">
+        <item>@string/gorilla_burger</item>
+        <item>@string/kalif_cipa_burger</item>
+        <item>@string/chicago_burger</item>
+        <item>@string/nikto_ne_post_burger</item>
+    </string-array>
+    <string-array name="Burgers_Content">
+        <item>@string/gorilla_burger_cont</item>
+        <item>@string/kalif_cipa_burger_cont</item>
+        <item>@string/chicago_burger_cont</item>
+        <item>@string/nikto_ne_post_burger_cont</item>
+    </string-array>
+    <integer-array name="Burgers_price">
+        <item>@integer/gorilla_burger_price</item>
+        <item>@integer/kalif_cipa_burger_price</item>
+        <item>@integer/chicago_burger_price</item>
+        <item>@integer/nikto_ne_post_burger_price</item>
+    </integer-array>
+    <array name="Burgers_Foto">
+        <item>@drawable/gorilla_burger</item>
+        <item>@drawable/cipa_burger</item>
+        <item>@drawable/chicago_burger</item>
+        <item>@drawable/nikto_ne_postradal_burger</item>
+    </array>
+
+    // третий раздел
+    <string-array name="HotDogs">
+        <item>@string/maxichiz_hotdog</item>
+        <item>@string/potehaski_hotdog</item>
+        <item>@string/krispi_long_hotdog</item>
+        <item>@string/beef_teisty_hotdog</item>
+    </string-array>
+    <string-array name="HotDogs_Content">
+        <item>@string/maxichiz_hotdog_cont</item>
+        <item>@string/potehaski_hotdog_cont</item>
+        <item>@string/krispi_long_hotdog_cont</item>
+        <item>@string/beef_teisty_hotdog_cont</item>
+    </string-array>
+    <integer-array name="HotDogs_price">
+        <item>@integer/maxichiz_hotdog_price</item>
+        <item>@integer/potehaski_hotdog_price</item>
+        <item>@integer/krispi_long_hotdog_price</item>
+        <item>@integer/beef_teisty_hotdog_price</item>
+    </integer-array>
+    <array name="HotDogs_Foto">
+        <item>@drawable/chese_hotdog</item>
+        <item>@drawable/texas_hotdog</item>
+        <item>@drawable/krispi_long_hotdog</item>
+        <item>@drawable/bif_tejsti_hotdog</item>
+    </array>
+
+    // четвертый раздел
+    <string-array name="Donuts">
+        <item>@string/white_donuts</item>
+        <item>@string/nutella_donuts</item>
+        <item>@string/chernica_donuts</item>
+        <item>@string/banana_donuts</item>
+    </string-array>
+    <string-array name="Donuts_Content">
+        <item>@string/white_donuts_cont</item>
+        <item>@string/nutella_donuts_cont</item>
+        <item>@string/chernica_donuts_cont</item>
+        <item>@string/banana_donuts_cont</item>
+    </string-array>
+    <integer-array name="Donuts_price">
+        <item>@integer/white_donuts_price</item>
+        <item>@integer/nutella_donuts_price</item>
+        <item>@integer/chernica_donuts_price</item>
+        <item>@integer/banana_donuts_price</item>
+    </integer-array>
+    <array name="Donuts_Foto">
+        <item>@drawable/donwhite_donuts</item>
+        <item>@drawable/nutella_donuts</item>
+        <item>@drawable/chernika_donuts</item>
+        <item>@drawable/saxar_donuts</item>
+    </array>
+</resources>

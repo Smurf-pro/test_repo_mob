@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:checkable="false"
+        android:checked="false"
+        android:title="@string/menu_titl"  />
+    <group android:checkableBehavior="single"
+        tools:ignore="ExtraText">
+        <item android:title="@string/pizza_titl"
+            android:id="@+id/id_pizza"/>
+<!--            android:icon="@drawable/pizza_icon"/>-->
+        <item android:title="@string/burger_titl"
+            android:id="@+id/id_burgers"/>
+<!--            android:icon="@drawable/burger_icon"/>-->
+        <item android:title="@string/hot_dogs_titl"
+            android:id="@+id/id_hot_dogs"/>
+<!--            android:icon="@drawable/hot_dog_icon"/>-->
+        <item android:title="@string/donuts_titl"
+            android:id="@+id/id_donuts"/>
+<!--            android:icon="@drawable/donuts_icon"/>-->
+    </group>
+
+    <item android:title="@string/korzina_profile">
+        <menu>
+        <item android:title="@string/Profile_menu"
+            android:id="@+id/Profile">
+<!--            android:icon="@drawable/profile_icon">-->
+        </item>
+            <item android:title="@string/Korzina_menu"
+                android:id="@+id/Korzinaaaa">
+<!--                android:icon="@drawable/corzina_icon">-->
+            </item>
+        </menu>
+    </item>
+</menu>
